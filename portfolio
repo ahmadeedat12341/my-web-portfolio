@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Design Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f8f8f8; padding: 20px; }
+        h1 { color: #333; }
+        ul { list-style: none; padding: 0; }
+        li { margin: 10px 0; font-size: 18px; }
+        a { text-decoration: none; color: #007BFF; font-weight: bold; }
+        a:hover { text-decoration: underline; }
+        .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>My Web Design Portfolio</h1>
+        <p>Here are some of the websites I have designed:</p>
+        <ul>
+            <li><a href="https://robotkraftafrica.com" target="_blank">Robotkraft Africa</a></li>
+            <li><a href="https://techwareinnovation.com" target="_blank">Techware Innovation</a></li>
+            <li><a href="https://gmets.com.ng" target="_blank">GMETS</a></li>
+            <li><a href="https://srumassociatesltd.com.ng" target="_blank">Srum Associates</a></li>
+            <li><a href="https://cyberguards.ng" target="_blank">Cyber Guards</a></li>
+            <li><a href="https://tronicsville.com" target="_blank">Tronicsville</a></li>
+            <li><a href="https://brainzuniversity.com" target="_blank">Brainz University</a></li>
+        </ul>
+    </div>
+</body>
+</html>
